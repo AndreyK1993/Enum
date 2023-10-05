@@ -1,5 +1,5 @@
 package e_num;
 
-public enum Color {
+public enum TrafficLight {
     RED, YELLOW, GREEN
 }
